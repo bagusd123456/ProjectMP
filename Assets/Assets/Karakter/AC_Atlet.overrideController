@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AC_Atlet
+  m_Controller: {fileID: 9100000, guid: 4689a13e498367e489c058d4122f957c, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 555f182772826cc45ad45aba8dc87833, type: 2}
+    m_OverrideClip: {fileID: -7361427651036151181, guid: 27b308e20b03f844c9c2332677d409a6, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: f74a0eacd82a1a3428714bc4eb966219, type: 2}
+    m_OverrideClip: {fileID: -573726360065689457, guid: 27b308e20b03f844c9c2332677d409a6, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: dc90d78b6e516b841811bf26cbece002, type: 2}
+    m_OverrideClip: {fileID: 5083312016495841699, guid: 27b308e20b03f844c9c2332677d409a6, type: 3}
+  - m_OriginalClip: {fileID: -7953226860266263787, guid: c1558c94e38b475448a6b78ce9c7dd10, type: 3}
+    m_OverrideClip: {fileID: -7610787507105361743, guid: 27b308e20b03f844c9c2332677d409a6, type: 3}

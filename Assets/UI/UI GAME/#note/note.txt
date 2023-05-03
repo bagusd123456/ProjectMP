@@ -1,0 +1,4 @@
+Kode Pressed Color
+#ff8700 (join room button, main menu button)
+#800000 (out & kick player di create room)
+
